@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate Junior Data Analyst from Barcelona</h3>
+<h1 align="center">Hey, I'm Daniel :)</h1>
+<h3 align="center">I am a former cloud and SaaS SDR with passion for data science, IT, programming and visualizations!</h3>
 
 - 🌱 I’m currently learning **Machine learning**
 
