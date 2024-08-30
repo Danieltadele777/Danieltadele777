@@ -1,9 +1,12 @@
-<h1 align="center">Hey, I'm Daniel :)</h1>
-<h3 align="center">I am a former cloud and SaaS SDR with passion for data science, IT, programming and visualizations!</h3>
+Hello, I'm Daniel
 
-- 🌱 I’m currently learning **Machine learning**
+To give you insight a little bit about me, I am originally from Ethiopia and came to Europe to study. I have a master's degree in Finance and a Bachelor's in Business Administration. I have extensive work experience in Data Analysis and Business Analysis. I have a passion for data science, IT, programming, and visualizations!
 
-- 💬 Ask me about **SQL, Google Cloud, Tableau, Power BI,Looker**
+I invite you to see my project portfolio and to discover my soft and hard skills.
+
+- 🌱 I’m currently learning **Machine learning, LLM**
+
+- 💬 Ask me about **SQL, Google Cloud, Tableau, Power BI, Looker, Python, Jupyter Notebook, Matplotlitb, Seaborn**
 
 - 📫 How to reach me **dt0911720558@gmail.com**
 
